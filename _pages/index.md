@@ -18,7 +18,7 @@ permalink: /
 
 - VALORANT
 - ポケモン
-
+![image](/GHPages_WebSite/assets/mainvisual_pc@2x.webp)
 最近はポケモンチャンピオンズばっかりやってます。
 
 ### **好きな音楽**
